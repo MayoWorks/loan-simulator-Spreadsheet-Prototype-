@@ -1,8 +1,6 @@
 # loan-simulator-Spreadsheet-Prototype-
 Loan calculator Spreadsheet Prototype
 
-Loan Simulator (Spreadsheet Prototype)
-
 This spreadsheet was created to verify the loan calculation logic
 before implementing the application in PHP.
 

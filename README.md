@@ -1,7 +1,11 @@
 # loan-simulator-Spreadsheet-Prototype-
 Loan calculator Spreadsheet Prototype
 
-screenshot/loan2.png
+## Screenshots
+
+### Input
+
+![Top](screenshot/loan2.png)
 
 This spreadsheet was created to verify the loan calculation logic
 before implementing the application in PHP.
@@ -14,5 +18,13 @@ Features
 ・Early payoff simulation
 ・Interest saving calculation
 ・Payoff fee calculation
+
+# Screenshots
+
+### loan-simulator
+![Loan](screenshot/loan.png)
+![Loan](screenshot/loan3.png)
+
+
 
 The spreadsheet was later converted into a WordPress PHP application.
